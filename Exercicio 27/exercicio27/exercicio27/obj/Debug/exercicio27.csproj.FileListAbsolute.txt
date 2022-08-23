@@ -1,0 +1,7 @@
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\bin\Debug\exercicio27.exe.config
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\bin\Debug\exercicio27.exe
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\bin\Debug\exercicio27.pdb
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\obj\Debug\exercicio27.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\obj\Debug\exercicio27.exe
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\obj\Debug\exercicio27.pdb
+C:\Users\Usuário\C#\Exercicios em c\Exercicio 27\exercicio27\exercicio27\obj\Debug\exercicio27.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\bin\Debug\exercicio32.exe.config
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\bin\Debug\exercicio32.exe
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\bin\Debug\exercicio32.pdb
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\obj\Debug\exercicio32.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\obj\Debug\exercicio32.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\obj\Debug\exercicio32.exe
+C:\Users\Usuário\source\repos\exercicio32\exercicio32\obj\Debug\exercicio32.pdb

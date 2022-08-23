@@ -1,0 +1,7 @@
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\bin\Debug\exercicio34.exe.config
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\bin\Debug\exercicio34.exe
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\bin\Debug\exercicio34.pdb
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\obj\Debug\exercicio34.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\obj\Debug\exercicio34.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\obj\Debug\exercicio34.exe
+C:\Users\Usuário\source\repos\exercicio34\exercicio34\obj\Debug\exercicio34.pdb

@@ -1,0 +1,11 @@
+Iniciar um projeto no terminal para fazer os exercícios:
+dotnet new console -o exercicio1
+
+e para rodar o ex: no vsCOde vá em:
+run -> start debbuging ->.Netcore
+
+para executar:
+dotnet run
+
+
+A PARTIR DO EXERCICIO 22 EU FIZ NO VISUAL STUDIO
